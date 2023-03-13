@@ -19,7 +19,7 @@
 ## Технологический стек:
 <div id="TechStack">
 
-* ASP.NET
+* ASP.NET Core
 * MySQL
 * Cronos
 
